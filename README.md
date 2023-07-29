@@ -5,5 +5,11 @@ Written in AGC assembly, this program, if woven into two core rope fixed-memory 
 
 Fortunately we do not need a real, working AGC of which only one is known to exist, as we have VirtualAGC and its Javascript port MoonJS.
 
+Play the game here in the browser:
 
+https://arlagames.itch.io/2d-monster-maze-apollo-guidance-computer
+
+All about the AGC and how to develop for it:
+
+https://www.ibiblio.org/apollo/
 
